@@ -1,0 +1,201 @@
+Income,Number of Dependents,Employment Status,Age,Education Level,Region,Owns Property,Bank Balance,Loan Status,Medical Expenses,Eligibility
+22804,6,Unemployed,79,Secondary,Rural,No,168918,Pending,39071,Yes
+7368,3,Unemployed,63,Primary,Suburban,No,199900,No Loan,11435,Yes
+20363,5,Unemployed,22,Secondary,Urban,No,145448,No Loan,48980,No
+9905,3,Self-employed,51,None,Urban,No,197990,Paid,2461,Yes
+33981,7,Employed,23,Secondary,Rural,No,192660,Paid,29921,Yes
+39659,8,Self-employed,44,Primary,Suburban,Yes,168509,Defaulted,29535,No
+18650,7,Unemployed,23,Graduate,Urban,No,164433,Paid,29806,Yes
+49787,4,Employed,28,Primary,Suburban,No,23312,Defaulted,27413,Yes
+14629,3,Unemployed,46,None,Rural,Yes,136614,Defaulted,13057,Yes
+47824,6,Employed,55,Secondary,Rural,No,12411,No Loan,33453,Yes
+25286,9,Employed,25,None,Urban,No,106022,Paid,3630,No
+45555,0,Self-employed,25,None,Urban,Yes,156193,Paid,39019,Yes
+17832,8,Retired,42,Secondary,Suburban,Yes,66262,Defaulted,9714,No
+28961,4,Retired,43,Primary,Suburban,Yes,184492,Pending,29739,Yes
+34320,5,Self-employed,75,None,Urban,Yes,89818,No Loan,20714,Yes
+11805,2,Retired,29,None,Urban,Yes,86120,Defaulted,25232,No
+44922,3,Self-employed,26,Higher,Urban,No,82279,No Loan,6142,No
+13693,5,Unemployed,72,None,Urban,Yes,75769,No Loan,19503,No
+27015,4,Retired,29,Primary,Urban,Yes,63037,Paid,28927,Yes
+37877,9,Self-employed,19,Primary,Urban,Yes,22420,Paid,8894,Yes
+20873,2,Retired,77,Higher,Rural,Yes,141130,Paid,10238,No
+36851,9,Employed,27,Graduate,Suburban,Yes,114889,Defaulted,35428,No
+14547,6,Self-employed,66,Graduate,Urban,Yes,28179,Pending,25538,Yes
+48639,0,Employed,77,None,Rural,No,22785,Pending,46099,No
+16525,2,Unemployed,58,Graduate,Suburban,Yes,71229,Paid,10736,Yes
+32890,8,Employed,70,Higher,Urban,No,72930,Paid,41321,Yes
+14944,9,Unemployed,41,Secondary,Suburban,No,165682,No Loan,26485,No
+15566,8,Unemployed,69,None,Rural,Yes,99239,Pending,34919,No
+23431,1,Retired,55,Higher,Urban,No,172851,Paid,46804,Yes
+4390,0,Unemployed,28,Primary,Rural,No,195119,No Loan,41862,No
+49590,0,Unemployed,26,Graduate,Urban,No,154363,Paid,4583,Yes
+39850,9,Unemployed,42,Graduate,Suburban,No,69252,Defaulted,17030,Yes
+16379,7,Unemployed,57,Higher,Urban,Yes,38392,Pending,12982,No
+44590,5,Retired,50,Higher,Urban,Yes,100123,No Loan,38115,No
+30009,9,Retired,70,Graduate,Suburban,No,186749,Pending,5978,Yes
+6997,6,Retired,63,Secondary,Urban,Yes,178847,Pending,33132,No
+27661,7,Retired,20,Graduate,Urban,Yes,74964,Defaulted,38635,No
+16349,9,Self-employed,20,Secondary,Rural,Yes,89881,Defaulted,16406,Yes
+6109,5,Employed,63,Secondary,Suburban,Yes,117407,No Loan,42600,Yes
+20033,4,Employed,73,Higher,Suburban,No,167708,Paid,14852,No
+37727,3,Employed,21,Graduate,Suburban,Yes,100127,Paid,30386,No
+22288,3,Self-employed,31,Primary,Urban,No,141706,Paid,1376,Yes
+27745,0,Unemployed,45,Secondary,Rural,No,21223,Paid,22663,Yes
+31811,9,Employed,58,Higher,Urban,Yes,54823,No Loan,11889,Yes
+35546,4,Unemployed,38,Primary,Urban,Yes,105848,Defaulted,1708,No
+26291,8,Retired,24,Primary,Urban,No,6548,Paid,43541,Yes
+37751,0,Self-employed,54,Higher,Rural,No,64200,Pending,26421,No
+49831,9,Retired,47,Graduate,Rural,No,68803,Paid,15072,No
+40685,4,Unemployed,18,None,Rural,No,70017,No Loan,42719,Yes
+42688,0,Unemployed,45,Higher,Suburban,Yes,190546,Pending,47454,Yes
+35196,8,Employed,52,Graduate,Urban,No,148049,Paid,39420,No
+15226,8,Retired,36,None,Urban,No,54312,No Loan,18354,No
+49231,0,Self-employed,79,Higher,Urban,No,153262,No Loan,34395,No
+1899,1,Employed,61,Higher,Rural,Yes,100689,Defaulted,46486,Yes
+45522,3,Retired,50,Primary,Urban,No,38211,Paid,37772,No
+28766,9,Retired,55,None,Urban,Yes,7461,Paid,40697,No
+28424,5,Retired,21,None,Urban,Yes,98723,Defaulted,27935,Yes
+34598,2,Unemployed,72,Secondary,Rural,Yes,120234,No Loan,25518,No
+27289,7,Employed,38,None,Suburban,No,154249,Defaulted,28444,Yes
+40213,4,Employed,56,Graduate,Suburban,Yes,10651,Paid,20219,No
+19440,6,Retired,32,Higher,Rural,Yes,193718,No Loan,14571,Yes
+49868,5,Unemployed,49,None,Urban,Yes,192121,Pending,12991,No
+19313,2,Employed,59,Secondary,Urban,No,137103,No Loan,1207,No
+10127,1,Unemployed,78,Graduate,Rural,No,165243,Defaulted,14291,Yes
+17369,0,Employed,28,Higher,Suburban,No,26715,Defaulted,28044,Yes
+37060,2,Retired,18,None,Suburban,Yes,148586,No Loan,28064,No
+30750,8,Retired,65,Secondary,Suburban,Yes,36027,No Loan,39410,No
+35947,3,Unemployed,65,None,Suburban,Yes,62068,Pending,26086,No
+34282,7,Employed,63,Higher,Urban,Yes,184816,Pending,1724,Yes
+26683,8,Retired,77,Primary,Suburban,No,106297,Paid,19921,Yes
+3563,6,Self-employed,45,Higher,Urban,Yes,10516,No Loan,7269,No
+37935,7,Self-employed,48,Graduate,Rural,No,42913,No Loan,34964,Yes
+3520,5,Retired,59,Graduate,Suburban,Yes,3744,Pending,26762,No
+21172,4,Retired,36,Secondary,Suburban,No,39922,Paid,46857,Yes
+47167,4,Unemployed,50,Graduate,Urban,No,28141,No Loan,45838,Yes
+10768,3,Employed,58,Higher,Rural,No,140146,Paid,23953,Yes
+41372,4,Unemployed,45,Higher,Rural,No,74637,Pending,38975,No
+36198,6,Retired,50,Secondary,Rural,No,153812,Defaulted,24858,Yes
+30545,3,Employed,61,Primary,Suburban,Yes,177809,No Loan,15996,No
+24705,8,Unemployed,23,Graduate,Suburban,No,94475,No Loan,557,No
+31087,9,Self-employed,67,Graduate,Rural,No,160866,Paid,9503,Yes
+19311,8,Self-employed,42,None,Urban,Yes,26035,Pending,25860,Yes
+26498,9,Retired,42,Primary,Urban,Yes,102112,Defaulted,46840,No
+18773,2,Self-employed,65,Higher,Urban,No,180913,Paid,21991,Yes
+15042,3,Employed,40,Higher,Rural,Yes,78931,No Loan,9429,No
+33857,7,Unemployed,36,Higher,Rural,No,182268,Paid,43950,Yes
+14109,5,Unemployed,33,Secondary,Suburban,No,67534,Pending,32272,No
+26003,3,Self-employed,71,Primary,Suburban,No,141028,Defaulted,33069,Yes
+10208,1,Employed,42,Higher,Rural,Yes,78213,No Loan,26189,Yes
+30759,5,Retired,18,Secondary,Rural,Yes,60545,No Loan,6910,Yes
+14612,3,Unemployed,19,None,Rural,No,37487,Defaulted,36068,Yes
+43815,5,Employed,25,Higher,Rural,No,23377,Paid,25879,No
+10596,6,Unemployed,63,Secondary,Suburban,Yes,99932,Defaulted,16859,No
+38861,7,Employed,72,Secondary,Rural,No,176806,Defaulted,39852,No
+6469,4,Employed,45,Higher,Suburban,Yes,175251,No Loan,40510,No
+17405,4,Employed,28,None,Suburban,No,131743,No Loan,43285,Yes
+48701,0,Self-employed,68,Primary,Urban,Yes,61350,Pending,18951,No
+17029,9,Employed,71,None,Rural,No,39758,No Loan,21083,No
+17044,7,Unemployed,51,Secondary,Rural,No,91703,Defaulted,45895,No
+5780,3,Retired,43,Primary,Rural,Yes,28380,No Loan,22656,Yes
+2828,3,Retired,29,Higher,Rural,No,2282,Pending,29689,No
+3023,8,Unemployed,20,None,Urban,Yes,162777,Paid,882,No
+4389,6,Retired,36,Graduate,Urban,Yes,24022,Pending,48908,Yes
+6110,4,Employed,72,Graduate,Rural,No,177691,Defaulted,19595,No
+39565,2,Employed,25,Higher,Urban,Yes,35262,Pending,6979,Yes
+2925,1,Self-employed,38,Graduate,Rural,No,193021,Paid,29334,Yes
+47026,2,Unemployed,63,Graduate,Rural,No,120575,Pending,18037,Yes
+24116,2,Self-employed,51,Graduate,Rural,No,173540,No Loan,30841,Yes
+27630,5,Self-employed,66,Graduate,Urban,No,59353,Defaulted,48689,Yes
+8179,9,Self-employed,38,Higher,Suburban,Yes,10749,Paid,29725,Yes
+44934,4,Unemployed,38,Higher,Suburban,Yes,171675,Pending,2384,No
+21022,5,Unemployed,46,Secondary,Suburban,No,145128,No Loan,36495,Yes
+1541,7,Retired,18,Secondary,Suburban,No,83555,Defaulted,34631,No
+33975,8,Employed,52,Secondary,Suburban,No,16052,Paid,36850,Yes
+47389,8,Employed,30,Secondary,Suburban,No,97539,Pending,49145,Yes
+29854,9,Employed,55,None,Urban,No,117961,No Loan,48933,No
+11361,4,Employed,62,Higher,Rural,Yes,96774,No Loan,34964,Yes
+8909,5,Employed,19,Secondary,Rural,Yes,165696,No Loan,48651,No
+20194,9,Self-employed,22,Secondary,Urban,Yes,142810,Defaulted,26910,No
+34937,4,Retired,76,None,Rural,No,2011,Paid,46092,No
+12653,2,Self-employed,55,Higher,Urban,Yes,178148,Defaulted,20567,Yes
+15537,3,Retired,62,Higher,Urban,Yes,169316,No Loan,37529,No
+32656,2,Unemployed,67,Higher,Urban,No,175481,No Loan,39673,No
+46004,9,Unemployed,36,Higher,Rural,Yes,57009,Paid,18544,Yes
+9601,0,Retired,52,Primary,Rural,Yes,163,No Loan,3754,Yes
+13087,3,Unemployed,26,Secondary,Rural,Yes,148226,Pending,10485,No
+2013,7,Unemployed,37,None,Suburban,Yes,159741,Pending,1960,No
+27832,2,Employed,25,Primary,Urban,Yes,182721,Defaulted,43171,No
+7643,5,Self-employed,60,None,Rural,Yes,93547,No Loan,36593,No
+43092,1,Self-employed,33,Secondary,Suburban,Yes,66677,Defaulted,48456,No
+10078,7,Retired,79,Graduate,Urban,No,31174,No Loan,14215,Yes
+30781,3,Self-employed,48,Primary,Rural,Yes,46851,Paid,39896,Yes
+44408,3,Employed,42,Graduate,Urban,No,137478,Defaulted,26806,Yes
+2560,4,Unemployed,65,Graduate,Rural,No,128563,No Loan,9496,Yes
+22727,0,Self-employed,20,None,Suburban,No,67411,Pending,30654,No
+11720,1,Unemployed,48,Primary,Suburban,Yes,17297,Defaulted,2490,No
+38900,5,Self-employed,36,None,Urban,Yes,150158,Pending,12452,No
+30545,6,Unemployed,27,None,Rural,No,135870,Paid,8706,Yes
+29731,4,Unemployed,49,Secondary,Rural,Yes,68670,No Loan,22190,No
+11326,8,Unemployed,43,Primary,Urban,No,104131,Paid,5926,Yes
+44241,2,Employed,28,Higher,Rural,No,71425,Paid,1307,No
+39559,1,Self-employed,30,Secondary,Suburban,Yes,123279,Pending,22168,Yes
+34848,3,Employed,67,Primary,Urban,No,119006,Pending,12869,No
+12329,1,Self-employed,76,Secondary,Urban,Yes,16715,Paid,44695,No
+27589,8,Self-employed,33,Graduate,Rural,Yes,97033,No Loan,20131,Yes
+27143,5,Retired,58,Higher,Suburban,No,119863,No Loan,33548,Yes
+38804,4,Self-employed,60,Secondary,Urban,Yes,50583,Paid,7166,No
+37735,9,Employed,23,Higher,Suburban,Yes,34542,Paid,19554,No
+16379,3,Employed,53,Graduate,Suburban,No,76917,Pending,24842,No
+17087,9,Self-employed,54,Primary,Urban,No,167860,Defaulted,20878,No
+43003,1,Unemployed,35,Primary,Rural,No,164226,Defaulted,25552,No
+12005,7,Retired,47,Higher,Suburban,No,148930,Pending,48077,No
+34662,7,Unemployed,25,Secondary,Urban,Yes,41424,Pending,27044,Yes
+35531,4,Employed,29,Primary,Urban,Yes,183260,Pending,11824,Yes
+4762,3,Retired,26,Primary,Suburban,Yes,181403,Paid,16905,Yes
+39787,5,Employed,73,None,Urban,Yes,134832,No Loan,19840,No
+28523,8,Self-employed,54,Graduate,Rural,Yes,173921,Paid,36304,No
+48219,9,Self-employed,35,None,Urban,Yes,32371,Defaulted,48758,Yes
+47163,8,Unemployed,66,Primary,Urban,Yes,187604,Defaulted,26062,Yes
+4586,7,Retired,25,Higher,Rural,Yes,167340,Defaulted,2454,No
+44201,5,Unemployed,30,Primary,Rural,Yes,57022,No Loan,49190,Yes
+19333,2,Retired,23,Primary,Suburban,No,146494,Paid,12258,Yes
+4041,2,Self-employed,18,None,Rural,Yes,27605,Defaulted,39933,Yes
+18081,9,Unemployed,32,Primary,Suburban,Yes,60058,Pending,44789,No
+14428,6,Self-employed,70,Primary,Urban,Yes,101665,Pending,8016,No
+3159,0,Employed,60,Higher,Rural,No,155378,No Loan,19218,No
+24398,1,Employed,40,Primary,Rural,Yes,99071,No Loan,37643,Yes
+7090,6,Self-employed,24,Secondary,Rural,No,76373,Paid,23911,Yes
+26051,4,Unemployed,42,Primary,Rural,Yes,94333,Defaulted,24566,No
+21581,4,Employed,19,Graduate,Rural,Yes,44936,Pending,3983,Yes
+11258,9,Retired,30,Secondary,Rural,Yes,170404,No Loan,36703,No
+37679,5,Unemployed,32,Primary,Suburban,Yes,116981,Pending,23387,Yes
+30411,8,Self-employed,21,Secondary,Suburban,No,21312,Pending,14482,No
+45848,1,Retired,29,Graduate,Suburban,No,15434,Pending,28398,No
+39356,8,Unemployed,24,Secondary,Urban,Yes,179510,No Loan,13893,No
+44543,3,Retired,23,Higher,Urban,Yes,79003,Paid,3802,No
+25826,1,Unemployed,42,Primary,Rural,No,60428,Paid,45268,Yes
+40499,7,Self-employed,65,Higher,Urban,Yes,97359,Defaulted,45000,Yes
+9712,6,Retired,44,Graduate,Rural,No,55099,No Loan,32125,Yes
+7154,0,Unemployed,43,Secondary,Suburban,Yes,156104,No Loan,42676,Yes
+36488,1,Employed,21,Primary,Urban,No,174180,No Loan,12275,Yes
+36201,1,Retired,21,Primary,Suburban,Yes,149340,No Loan,12504,Yes
+17967,2,Retired,50,Higher,Urban,Yes,86269,Paid,20669,Yes
+7256,4,Retired,75,None,Urban,Yes,40379,Pending,21826,No
+30197,6,Unemployed,72,Secondary,Urban,Yes,121251,No Loan,13527,No
+1161,1,Self-employed,63,Higher,Suburban,Yes,183467,No Loan,28753,No
+16313,5,Employed,26,None,Rural,No,29300,Pending,18450,Yes
+4081,6,Employed,69,Secondary,Suburban,No,24995,Paid,13283,No
+2651,6,Employed,44,Secondary,Rural,No,44014,Paid,24045,No
+22817,3,Retired,62,Secondary,Suburban,Yes,128379,Defaulted,16499,No
+1105,9,Self-employed,41,Higher,Rural,No,99853,No Loan,15997,Yes
+24225,9,Self-employed,77,Graduate,Suburban,No,62493,Paid,2808,No
+34226,0,Retired,49,Higher,Suburban,No,113132,Defaulted,44638,Yes
+24762,5,Unemployed,64,Higher,Urban,No,150611,Defaulted,28308,No
+42125,2,Employed,22,None,Urban,Yes,177404,Paid,17153,Yes
+24928,4,Self-employed,58,Primary,Urban,Yes,70194,Defaulted,1140,No
+9783,2,Employed,70,Higher,Urban,No,41568,Defaulted,38714,Yes
+29380,4,Retired,29,Graduate,Rural,No,30620,Defaulted,49666,Yes
+39019,6,Employed,57,Primary,Urban,Yes,161445,No Loan,7684,No
+31015,2,Unemployed,31,Secondary,Urban,No,104792,No Loan,25227,Yes
