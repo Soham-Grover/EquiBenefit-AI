@@ -1,6 +1,6 @@
 # EquiBenefit AI Model
 
-## Problem Statemtn
+## Problem Statement
 Growing Economic Inequality - Current reservation system and some government schemes gives freebees basis caste and creed. However, there are many people, basis their economic condition may not need those benefits. On the other hand some people who are economically weak may be deprived of the government schemes which are required for their overall development. 
 
 ## AI Based Solution
